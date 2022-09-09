@@ -1,2 +1,7 @@
 # RTR105
-Elektronikā klade Datormācībā(pamatkurss)
+Elektroniskā klade Datormācībā(pamatkurss)
+## Class 02
+### Elektroniskā klade
+#### Saraksti
+- pirmā
+- otrā
